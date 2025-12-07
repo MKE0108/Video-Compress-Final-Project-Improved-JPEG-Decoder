@@ -19,5 +19,5 @@ bash test_speed.sh
 ![final_speed_test](result.png)
 
 
-# 修正版是從以下專案修改而來
+# 本專案是參考以下專案，並進行修改而來
 https://github.com/MROS/jpeg_decoder
