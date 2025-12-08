@@ -16,7 +16,7 @@ bash test_speed.sh
 ```
 
 # 最終截圖
-![final_speed_test](result.png)
+![final_speed_test](result_new.png)
 
 
 # 本專案是參考以下專案，並進行修改而來
